@@ -8,3 +8,12 @@ Moreover, you do not have to use the .exe file. Always you can compile your exec
 # Using .py file:
 Make sure you have installed Pillow library. You may install it by typing following command:
 pip install pillow
+# References
+The Python Imaging Library (PIL) is
+
+    Copyright © 1997-2011 by Secret Labs AB
+    Copyright © 1995-2011 by Fredrik Lundh
+
+Pillow is the friendly PIL fork. It is
+
+    Copyright © 2010-2021 by Alex Clark and contributors
